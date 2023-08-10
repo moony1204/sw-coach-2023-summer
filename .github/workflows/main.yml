@@ -6,7 +6,7 @@ on:
   
 jobs:
   push-test:
-    name: 코드를 빌드 및 테스트 진행
+    name: 코드 빌드 및 테스트 진행
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
